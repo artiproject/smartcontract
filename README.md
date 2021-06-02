@@ -10,7 +10,7 @@ The ARTI Project is a global art innovation project that is being promoted by re
 
 ArtiProject is pursuing an NFT platform that anyone can own and share by making all items with rarity, including art, into NFT.
 
-# ARTi Platform
+## ARTi Platform
 
 The platform's main service is to provide a system that allows the general public to make NFTs of their own items, 
 provides an exchange to trade NFTs with each other, 
